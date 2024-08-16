@@ -1,0 +1,27 @@
+{
+    "ABCDE": [
+        "Argentina",
+        "Chile",
+        "Costa Rica"
+    ],
+    "EFGHI": [
+        "El Salvador",
+        "Estados Unidos",
+        "Honduras",
+        "Hong Kong",
+        "Guatemala"
+    ],
+    "JKLMN": [
+        "Jamaica"
+    ],
+    "OPQRS": [
+        "Panama",
+        "Paraguay",
+        "Puerto Rico",
+        "Republica Dominicana"
+    ],
+    "TUVWX": [
+        "Trinidad y Tobago",
+        "Uruguay"
+    ]
+}
